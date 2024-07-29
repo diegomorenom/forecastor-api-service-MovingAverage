@@ -1,8 +1,6 @@
 fastapi==0.110.0
 numpy==1.26.4
 pandas==2.2.1
-pmdarima==2.0.4
-prophet==1.1.5
 pydantic==2.6.4
 python-multipart
 scikit_learn==1.4.1.post1
